@@ -1,0 +1,167 @@
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.text-decoration-underline {
+    text-decoration: underline;
+}
+
+.text-decoration-line-through {
+    text-decoration: line-through;
+}
+
+.text-decoration-overline {
+    text-decoration: overline;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.text-lowercase {
+    text-transform: lowercase;
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}
+
+/* liền */
+.boder-Solid {
+    border: 1px solid red;
+}
+
+/* chấm */
+.boder-Dotter {
+    border: 1px dotted red;
+}
+
+/* gạch */
+.boder-dashed {
+    border: 1px dashed red;
+}
+
+.display-inline {
+    display: inline;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+/* grow: dãn shrink co flex-basis: độ rộng */
+.flex {
+    flex: 1 1 200px;
+}
+
+.justify-left {
+    justify-content: left;
+}
+
+.justify-right {
+    justify-content: right;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-flex-start {
+    justify-content: flex-start;
+}
+
+.justify-flex-end {
+    justify-content: flex-end;
+}
+
+.justify-space_around {
+    justify-content: space-around;
+}
+
+.justify-space_between {
+    justify-content: space-between;
+}
+
+.f-left {
+    float: left;
+}
+
+.f-right {
+    float: right;
+}
+
+.mg-top {
+    margin-top: 15px;
+}
+
+.mg-bottom {
+    margin-bottom: 10px;
+}
+
+.mg-left {
+    margin-left: 20px;
+}
+
+.mg-right {
+    margin-right: 15px;
+}
+
+.mg {
+    margin: 10px 15px;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-green {
+    color: green;
+}
+
+.text-gray {
+    color: gray;
+}
+
+.text-grey {
+    color: grey;
+}
+
+.text-yellow {
+    color: yellow;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-blue {
+    color: blue;
+}
+
+
+
